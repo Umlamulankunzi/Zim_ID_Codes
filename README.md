@@ -20,7 +20,7 @@ A valid ID Number is of the format;
     
 ### Main App Functionality
 The application is for searching Zimbabwe National ID codes for all districts, provinces and towns.
-This was application was developed on windows OS. Yet to be tested on linux OS. 
+This application was developed on windows OS and is yet to be tested on linux OS. 
 
 ### Requirements
 - *Python3*
