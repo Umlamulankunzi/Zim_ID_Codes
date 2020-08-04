@@ -1,4 +1,6 @@
 # Zim ID Codes
+![Screenshot of App](screenshots/Zim_ID_screenshot.png)
+
 ### Zimbabwe National ID District Codes App
 
 A simple desktop GUI application built in **python3** using the **_tkinter_** library.
