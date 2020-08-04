@@ -148,13 +148,3 @@ class Data:
             self.add_entry(*info)
 
 
-if __name__ == '__main__':
-    """Testing database class"""
-    x = Data()
-    print("finding code 56")
-    # print(x.query("56", "code"))
-    # print(x.query("56", "code", col1="district"))
-    print(x.query(col1="province", col2="district"))
-    print(x.query(col1="district", col2="code"))
-    print(x.get("prov"))
-    # print(x.query("77", col1="district", col2="province"))
